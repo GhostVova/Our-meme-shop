@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1",
+    "title": "Дробовик",
+    "vendor_code": "111",
+    "description": "В обычных магазинах он дороже! А у нас всего-то",
+    "price": 150,
+    "img": "https://www.kitana.ru/upload/resize_cache/iblock/dfe/1484_779_10240811ca8906714d1a9f41f2f5b358d/dfe0ad76b3e4ce415fb0f86823cbb9bf.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Зря ты доверил мне огнестрельное оружие!",
+    "vendor_code": "222",
+    "description": "А теперь выворачивай карманы!",
+    "price": -100,
+    "img": "https://yt3.googleusercontent.com/ytc/AIf8zZRMLYaWxgeRGa3asJ-ppnrQsyG2wu9T0rkz821GAA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": "3",
+    "title": "Ядерное оружие",
+    "vendor_code": "333",
+    "description": "Покажите своим друзьям Кузькину мать (Н.С.Хрущёв)!",
+    "price": 559,
+    "img": "https://img.tsargrad.tv/cache/d/3/1_-imeni-2.jpg/w1056h594fill.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Выгодное предложение!",
+    "vendor_code": "444",
+    "description": "Вы мне 100000 рублей, я вам звиздюлей",
+    "price": 100000,
+    "img": "https://sravni-news-prod.storage.yandexcloud.net/uploads/2021/12/127523-n42lmrytsk5f8acijhwp.jpg"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Кружка кандибобер",
+    "vendor_code": "555",
+    "description": "Прекрасное имя, Аллах акбар",
+    "price": -86784896,
+    "img": "https://ir-3.ozone.ru/s3/multimedia-l/c1000/6296405517.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Wait",
+    "vendor_code": "4446e",
+    "description": "Описание 6",
+    "price": 400,
+    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_1.png"
+  },
+  {
+    "id": "7",
+    "title": "Bob",
+    "vendor_code": "4447e",
+    "description": "Описание 7",
+    "price": 700,
+    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_2.png"
+  },
+  {
+    "id": "8",
+    "title": "Avatar",
+    "vendor_code": "4448e",
+    "description": "Описание 8",
+    "price": 800,
+    "img": "avatar.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Товар 9",
+    "vendor_code": "444e",
+    "description": "Описание 9",
+    "price": 400,
+    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_4.png"
+  }
+  ,
+  {
+    "id": "10",
+    "title": "Avatar",
+    "vendor_code": "44410e",
+    "description": "Описание 10",
+    "price": 900,
+    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_5.png"
+  },
+  {
+    "id": "11",
+    "title": "Товар 11",
+    "vendor_code": "44411e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_6.png"
+  },
+  {
+    "id": "12",
+    "title": "Ландыши",
+    "vendor_code": "66666",
+    "description": "Ландыши для людоедов",
+    "price": 1100,
+    "img": "https://tsvet-dvorik.ru/d/kupit_landyshi.jpg"
+  }
+]
